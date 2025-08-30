@@ -1,0 +1,30 @@
+# requirements.txt
+
+# Core dependencies
+pandas==1.5.2
+numpy==1.24.1
+torch==1.15.0
+
+# Additional dependencies
+scipy==1.11.0
+sklearn==0.27.0
+nltk==3.8
+transformers==4.19.0
+
+# Data processing and visualization
+matplotlib==3.8.3
+seaborn==0.11.2
+pillow==9.4.0
+
+# Testing and development
+pytest==7.2.0
+flake8==4.0.1
+black==22.3.0
+
+# Additional tools
+jupyter==1.0.0
+ipython==7.37.0
+
+# Please ensure that all dependencies are compatible and there are no conflicts.
+# Update this file as needed to include any new requirements for the project.
+# Note: This file is used for reproducing the environment and installing dependencies.
